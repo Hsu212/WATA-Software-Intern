@@ -1,6 +1,6 @@
 # WATA-Software-Intern
 
-Welcome to my repository for the WATA Software AI Engineer Internship Program! This project serves as a full-stack application integrated with an AI-powered retrieval and generation pipeline.
+Welcome to my repository for the Software Engineer Internship Program! This project serves as a full-stack application integrated with an AI-powered retrieval and generation pipeline.
 
 ---
 
