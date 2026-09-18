@@ -16,7 +16,7 @@ Welcome to my repository for the WATA Software AI Engineer Internship Program! T
 ## 📂 Project Structure
 
 ```text
-├── frontend/         # ReactJS application (Chat UI & Dashboard)
+├── frontend/         # React application (Chat UI & Dashboard)
 ├── backend/          # Node.js & TypeScript API server
 ├── ai-service/       # Python FastAPI & LangGraph microservice (Coming soon)
 └── docker-compose.yml# Container orchestration for local development
