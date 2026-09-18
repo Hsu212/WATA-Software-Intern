@@ -6,7 +6,7 @@ Welcome to my repository for the WATA Software AI Engineer Internship Program! T
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** ReactJS, TailwindCSS, React Router, Axios
+* **Frontend:** React, TypeScript, TailwindCSS, React Router, Axios
 * **Backend:** Node.js, Express/NestJS, TypeScript, PostgreSQL (Prisma/TypeORM)
 * **AI & Orchestration:** Python, FastAPI, LangGraph, OpenAI API / Ollama
 * **DevOps & MLOps:** Docker & Docker Compose
